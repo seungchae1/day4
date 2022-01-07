@@ -1,5 +1,7 @@
 package test.overload2;
 
+import test.constructor1.ConstructorTest1;
+
 public class RunConstructorTest1 {
 
 	public static void main(String[] args) {

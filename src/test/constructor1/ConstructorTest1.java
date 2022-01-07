@@ -1,4 +1,4 @@
-package test.overload2;
+package test.constructor1;
 
 public class ConstructorTest1 {
 	private int n1;
